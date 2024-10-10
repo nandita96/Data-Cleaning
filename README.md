@@ -17,6 +17,7 @@ This notebook is to showcase the steps taken to perform Exploratory Data Analysi
 **View 3**
 <br>
 <br>
-![image](https://github.com/user-attachments/assets/f751c5dc-6748-4574-a099-89c2bb99c32f)
+![image](https://github.com/user-attachments/assets/05c30b59-daf8-416d-901a-59cff9fb1b08)
+
 
 
